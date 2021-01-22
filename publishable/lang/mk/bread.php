@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'add_bread'              => 'Add BREAD to this table',
-    'bread_crud_actions'     => 'BREAD/CRUD Actions',
-    'bread_info'             => 'BREAD info',
-    'controller_name_hint'   => 'ex. PageController, if left empty will use the BREAD Controller',
-    'create_bread_for_table' => 'Create BREAD for :table table',
+    'add_bread'              => 'Додадете BREAD на оваа табела',
+    'bread_crud_actions'     => 'BREAD/CRUD дејствија',
+    'bread_info'             => 'BREAD инфо',
+    'controller_name_hint'   => 'пр. PageController, ако остане празно ќе го користи BREAD контролерот',
+    'create_bread_for_table' => 'Креирај BREAD за :table табела',
     'default_search_key'     => 'Default server-side search field',
     'default_search_key_ph'  => 'The field will be pre-selected for server-side searching',
     'delete_bread'           => 'Delete BREAD',
